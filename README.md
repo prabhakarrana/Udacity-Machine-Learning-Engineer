@@ -5,7 +5,7 @@
 
 Algorithm: OpenCV, Convolutional Neural Networks: ResNet-50, VGG-16, VGG-19, Inception and Xception
 
-Given an image of a dog, the algorithm identified an estimate of the canine’s breed. If supplied an image of a human, the code identifies the resembling dog breed. Used transfer learning on several CNN architectures, finally picking one which yielded 84% accuracy. See project ML: Identifying dog breeds
+Given an image of a dog, the algorithm identified an estimate of the canine’s breed. If supplied an image of a human, the code identifies the resembling dog breed. Used transfer learning on several CNN architectures, finally picking one which yielded 84% accuracy. 
 
 **Finding Donors for CharityML**
 
